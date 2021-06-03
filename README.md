@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryelbeck
-- 👀 I’m interested in data visualization and web design
-- 🌱 I’m currently learning python, html, css
+- 👀 I’m interested in data science, collection, visualization 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me facebook
 
